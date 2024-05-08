@@ -1,12 +1,29 @@
 # Build and Deploy a Modern YouTube Clone Application in React JS with Material UI 5
 
-![YouTube](https://i.ibb.co/4R5RkmW/Thumbnail-5.png)
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+YouTube Clone
+Description
+Ce projet est un clone simplifié de l'application YouTube, développé dans le but de comprendre et de pratiquer les concepts fondamentaux du développement web, tels que REACTJS, MUI ,REACTROUTER.
 
-### Showcase your dev skills with practical experience and land the coding career of your dreams
-💻 JS Mastery Pro - https://jsmastery.pro/youtube
-✅ A special YOUTUBE discount code is automatically applied!
+--------------------Fonctionnalités
+Affichage de vidéos depuis une API publique (RAPIDAPI).
+Recherche de vidéos par mot-clé.
+Lecture de vidéos.
+Interface utilisateur réactive pour une expérience multiplateforme optimale.
 
-📙 Get the Ultimate Frontend & Backend Development Roadmaps, a Complete JavaScript Cheatsheet, Portfolio Tips, and more - https://www.jsmastery.pro/links
+
+-------------------Installation
+Clonez le dépôt GitHub :
+git clone https://github.com/elkadirizouhra/youtube-clone.git
+
+Naviguez vers le répertoire du projet :
+cd youtube-clone
+
+remplacer le key de rapidAPI par de votre
+
+installer les dependances.
+npm install
+
+demmarrer l'app youtube clone:
+npm start
+
